@@ -1,5 +1,5 @@
 <h2 align="center">Hi 👋, I'm Shreyansh Nayak</h2>
-<h3 align="center">An enthusiastic developer tinkering with Machine Learning, Full stack Web Dev, and sometimes x86 Asm.</h3>
+<h3 align="center">An enthusiastic developer tinkering with Machine Learning, Full-stack Dev, and a little bit of x86 Asm.</h3>
 
 <img src="https://komarev.com/ghpvc/?username=149segolte&label=Profile%20views&color=0e75b6&style=flat" alt="149segolte" />
 
