@@ -4,7 +4,7 @@ A Computer Science Master's student at the University of Florida, passionate abo
 
 - 🌱 Actively learning, **PyTorch** for AI/ML research, **Rust** for robust systems programming, and **Terraform** for infrastructure automation.
 
-- 👨‍💻 Explore my full spectrum of work and contributions on my [Personal Web Folio](https://149segolte.dev) and [Resume (PDF)](https://github.com/149segolte/149segolte/blob/3c6d68a0dac74d03da33dfac16c014704be5a617/Resume.pdf).
+- 👨‍💻 Explore my full spectrum of work and contributions on my [Personal Web Folio](https://149segolte.dev) and [Resume (PDF)](https://github.com/149segolte/149segolte/blob/main/Resume.pdf).
 
 - 📫 Easiest way to connect? Send a DM [@149segolte](https://twitter.com/149segolte) on Twitter or reach out on [LinkedIn](https://linkedin.com/in/149segolte).
 
@@ -15,11 +15,11 @@ A Computer Science Master's student at the University of Florida, passionate abo
 
 ### Current Projects
 
-- ML Playground: Building a automation workflow for machine learning projects generating code for popular frameworks like TensorFlow, PyTorch, and Keras.
+- _ML Playground_: Building a automation workflow for machine learning projects generating code for popular frameworks like TensorFlow, PyTorch, and Keras.
   [149segolte/ml-playground](https://github.com/149segolte/ml-playground) [149segolte/mlp-server](https://github.com/149segolte/mlp-server)
-- Single file Homelab: Taking deployments too far, working on merging entire infrastructure stacks into a single file. Currently split across various technologies.
+- _Single file Homelab_: Taking deployments too far, working on merging entire infrastructure stacks into a single file. Currently split across various technologies.
   [149segolte/CoreOSDeploy](https://github.com/149segolte/CoreOSDeploy) [149segolte/nixos_deploy](https://github.com/149segolte/nixos_deploy) [149segolte/homelab](https://github.com/149segolte/homelab)
-- C# to Rust to SPIR-V: Haven't you ever wondered how to decomplie a C# DLL and transpile it to Rust and then to SPIR-V as a shader? Here's a project that does just that.
+- _C# to Rust to SPIR-V_: Haven't you ever wondered how to decomplie a C# DLL and transpile it to Rust and then to SPIR-V as a shader? Here's a project that does just that.
   [149segolte/treesitter_csharp_to_rust](https://github.com/149segolte/treesitter_csharp_to_rust) [149segolte/wgpu-dsp](https://github.com/149segolte/wgpu-dsp)
 
 ### Things I am tinkering with
